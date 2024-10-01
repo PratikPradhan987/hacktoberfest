@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pratik Pradhan](https://github.com/PratikPradhan987)
+- Place: Gangtok, Sikkim, India
+- Bio: Full Stack Web Developer, prefers to build code than to learn a language.
+- GitHub: [NoisyBoy PratikPradhan987]([GitHub link](https://github.com/PratikPradhan987))
